@@ -83,12 +83,3 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
 
   No, no habrá tiempo límte máximo ni mínimo.
-
-
-### Contribuidores
-
-[[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/jesus13g/lestSpeak/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
-
-
-
-
