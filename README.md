@@ -72,7 +72,6 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
   No, no habrá tiempo límte máximo ni mínimo.
 
-2: 
 
 
 
