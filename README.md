@@ -32,6 +32,8 @@ LestSpeak es una aplicación para la comunicación online de todo tipo, puedes c
 
 *[Preguntas frecuentes](#grey_questionpreguntas-frecuentes)
 
+*[Contribuidores](#Contribuidores)
+
 ### :office:Gestión de usuarios 
 
 Dentro de gestión de usuarios se podrá encontrar:
@@ -81,6 +83,11 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
 
   No, no habrá tiempo límte máximo ni mínimo.
+
+
+### Contribuidores
+
+[[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/jesus13g/lestSpeak/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
 
 
 
