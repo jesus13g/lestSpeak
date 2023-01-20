@@ -17,15 +17,18 @@ LestSpeak es una aplicación para la comunicación online de todo tipo, puedes c
 
 ## Dicha aplicación tiene varias funciones:
 
-*[Gestión de usuarios](###Gestión de usuarios)
 
-*[Funciones de la aplicación](###Funcionalidades de la aplicación)
+*[Gestión de usuarios](#officegestión-de-usuarios)
 
-*[Soporte](###Soporte)
+*[Funciones de la aplicación](#hammerfuncionalidades-del-proyecto)
 
-*[Métodos de pago](###Métodos de pago)
+*[Soporte](#wrenchsoporte)
 
-*[Wiki](###Wkiki)
+*[Métodos de pago](#heavy_dollar_signmétodos-de-pago)
+
+*[Wiki](#bookwiki)
+
+*[Preguntas frecuentes](#grey_questionpreguntas-frecuentes)
 
 ### :office:Gestión de usuarios 
 
