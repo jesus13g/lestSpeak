@@ -2,7 +2,7 @@
 # GESPRO_Teoria_2022
 
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
-- [Alejandro Navas García] (mete aqui el link de tu perfil de github)
+- [Alejandro Navas García] 
 - [Mario González Alesanco] (lo mismo)
 
 
