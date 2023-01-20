@@ -4,7 +4,9 @@
 - [Alejandro Navas García](https://github.com/Pr0ken)
 - [Mario González Alesanco] (lo mismo)
 
-
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 
 <h1 align="center"> lETS SPEAK </h1>
 ## Una forma fácil y divertida de comunicarse
