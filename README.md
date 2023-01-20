@@ -10,6 +10,8 @@
 ## Una forma fácil y divertida de comunicarse
 
 ![Proyecto en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Version Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
+![GitHub Release Date](https://img.shields.io/github/release-date/dropbox/dropbox-sdk-java)
 
 LestSpeak es una aplicación para la comunicación online de todo tipo, puedes comunicarte por mensajería, por llamada, o incluso hacer videollamadas grupales. También está preparado para poder mostrar tu pantalla para hacer reuniones o jugar a videojuegos.
 
