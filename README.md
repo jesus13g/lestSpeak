@@ -1,7 +1,7 @@
 
 # Gespro_teoria_2023 
 ## Tutor 
- José Manuel Aroca
+ José Manuel Aroca Fernandez
 ## Equipo 
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
 - [Alejandro Navas García](https://github.com/Pr0ken)
