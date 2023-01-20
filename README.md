@@ -33,7 +33,7 @@ Dentro de gestión de usuarios se podrá encontrar:
 - Conectarse a canal
 - Gestión de dispositivos
 
-#### Funciones de la aplicación
+### :hammer:Funcionalidades del proyecto
 
 La aplicación dispondrá de las siguientes funciones:
 
