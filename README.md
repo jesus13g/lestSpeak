@@ -19,7 +19,7 @@ LestSpeak es una aplicación para la comunicación online de todo tipo, puedes c
 
 *[Gestión de usuarios](###Gestión de usuarios)
 
-*[Funciones de la aplicación](###Funciones de la aplicación)
+*[Funciones de la aplicación](###Funcionalidades de la aplicación)
 
 *[Soporte](###Soporte)
 
