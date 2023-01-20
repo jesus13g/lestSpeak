@@ -15,7 +15,7 @@
 
 LestSpeak es una aplicación para la comunicación online de todo tipo, puedes comunicarte por mensajería, por llamada, o incluso hacer videollamadas grupales. También está preparado para poder mostrar tu pantalla para hacer reuniones o jugar a videojuegos.
 
-##Dicha aplicación tiene varias funciones:
+## Dicha aplicación tiene varias funciones:
 
 *[Gestión de usuarios](###Gestión de usuarios)
 
@@ -23,9 +23,11 @@ LestSpeak es una aplicación para la comunicación online de todo tipo, puedes c
 
 *[Soporte](###Soporte)
 
-*[Métodos de pago].(###Métodos de pago)
+*[Métodos de pago](###Métodos de pago)
 
-##### :office:Gestión de usuarios 
+*[Wiki](###Wkiki)
+
+### :office:Gestión de usuarios 
 
 Dentro de gestión de usuarios se podrá encontrar:
 
@@ -47,7 +49,7 @@ La aplicación dispondrá de las siguientes funciones:
 - Notificación
 - Llamadas grupales
 
-#### :wrench:Soporte 
+### :wrench:Soporte 
 
 El usuario dispondrá de las siguientes funciones dentro del soporte de la aplicación
 
@@ -57,7 +59,7 @@ El usuario dispondrá de las siguientes funciones dentro del soporte de la aplic
 - Ayuda al usuario
 - Privacidad
 
-#### :heavy_dollar_sign:Métodos de pago 
+### :heavy_dollar_sign:Métodos de pago 
 
 La aplicación dispondrá de varios métodos de pago
 
@@ -65,11 +67,11 @@ La aplicación dispondrá de varios métodos de pago
 - Paypal
 - Paysafecard
 
-## :book:Wiki 
+### :book:Wiki 
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/jesus13g/lestSpeak/wiki)
 
-## :grey_question:Preguntas frecuentes 
+### :grey_question:Preguntas frecuentes 
 
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
 
