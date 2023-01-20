@@ -2,13 +2,13 @@
 # <h1 align="center"> Gespro_teoria_2023 </h1>
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
 - [Alejandro Navas García](https://github.com/Pr0ken)
-- [Mario González Alesanco] (lo mismo)
+- [Mario González Alesanco] (https://github.com/mariogonn)
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
 
-<h1 align="center"> lETS SPEAK </h1>
+<h1 align="center"> LETS SPEAK </h1>
 ## Una forma fácil y divertida de comunicarse
 
 ![Proyecto en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
