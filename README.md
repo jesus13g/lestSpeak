@@ -15,8 +15,7 @@
 
 ![Proyecto en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-///////
-
+LestSpeak es una aplicación para la comunicación online de todo tipo, puedes comunicarte por mensajería, por llamada, o incluso hacer videollamadas grupales. También está preparado para poder mostrar tu pantalla para hacer reuniones o jugar a videojuegos.
 
 ## Dicha aplicación tiene varias funciones:
 
