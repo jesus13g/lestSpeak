@@ -2,7 +2,7 @@
 # <h1 align="center"> Gespro_teoria_2023 </h1>
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
 - [Alejandro Navas García](https://github.com/Pr0ken)
-- [Mario González Alesanco] (https://github.com/mariogonn)
+- [Mario González Alesanco](https://github.com/mariogonn)
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
