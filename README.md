@@ -64,7 +64,7 @@ La aplicación dispondrá de varios métodos de pago
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/jesus13g/lestSpeak/wiki)
 
 ## Preguntas frecuentes
 
