@@ -22,7 +22,7 @@ Dicha aplicación tiene varias funciones:
 -Soporte
 -Métodos de pago
 
-##### :Gestión de usuarios 📋
+##### :office:Gestión de usuarios 
 
 Dentro de gestión de usuarios se podrá encontrar:
 
@@ -44,7 +44,7 @@ La aplicación dispondrá de las siguientes funciones:
 - Notificación
 - Llamadas grupales
 
-#### :Soporte 🔧
+#### :wrench:Soporte 
 
 El usuario dispondrá de las siguientes funciones dentro del soporte de la aplicación
 
@@ -54,7 +54,7 @@ El usuario dispondrá de las siguientes funciones dentro del soporte de la aplic
 - Ayuda al usuario
 - Privacidad
 
-#### :Métodos de pago 💰
+#### :heavy_dollar_sign:Métodos de pago 
 
 La aplicación dispondrá de varios métodos de pago
 
@@ -62,11 +62,11 @@ La aplicación dispondrá de varios métodos de pago
 - Paypal
 - Paysafecard
 
-## Wiki 📖
+## :book:Wiki 
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/jesus13g/lestSpeak/wiki)
 
-## :Preguntas frecuentes ✒️
+## :grey_question:Preguntas frecuentes 
 
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
 
