@@ -7,6 +7,7 @@
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
 - [Alejandro Navas García](https://github.com/Pr0ken)
 - [Mario González Alesanco](https://github.com/mariogonn)
+- [Clara García Bartolomé](https://github.com/ClaraGarciaBartolome)
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
