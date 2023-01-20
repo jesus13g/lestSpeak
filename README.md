@@ -15,12 +15,15 @@
 
 LestSpeak es una aplicación para la comunicación online de todo tipo, puedes comunicarte por mensajería, por llamada, o incluso hacer videollamadas grupales. También está preparado para poder mostrar tu pantalla para hacer reuniones o jugar a videojuegos.
 
-Dicha aplicación tiene varias funciones:
+##Dicha aplicación tiene varias funciones:
 
--Gestión de usuarios
--Funciones de la aplicación
--Soporte
--Métodos de pago
+*[Gestión de usuarios](#Gestión de usuarios)
+
+*[Funciones de la aplicación](#Funciones de la aplicación)
+
+*[Soporte](#Soporte)
+
+*[Métodos de pago].(#Métodos de pago)
 
 ##### :office:Gestión de usuarios 
 
