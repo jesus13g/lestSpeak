@@ -8,6 +8,7 @@
 
 <h1 align="center"> lETS SPEAK </h1>
 ## Una forma fácil y divertida de comunicarse
+
 ![Proyecto en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 LestSpeak es una aplicación para la comunicación online de todo tipo, puedes comunicarte por mensajería, por llamada, o incluso hacer videollamadas grupales. También está preparado para poder mostrar tu pantalla para hacer reuniones o jugar a videojuegos.
