@@ -82,3 +82,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
 
   No, no habrá tiempo límte máximo ni mínimo.
+  
+2: ¿Como se puede activar el microfono?
+  
+  Hay dos formas de activarlo, una es pulsando una tecla que configures y la otra es teniendo siempre ativado el microfono.
