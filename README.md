@@ -32,7 +32,6 @@ LestSpeak es una aplicación para la comunicación online de todo tipo, puedes c
 
 *[Preguntas frecuentes](#grey_questionpreguntas-frecuentes)
 
-*[Contribuidores](#Contribuidores)
 
 ### :office:Gestión de usuarios 
 
