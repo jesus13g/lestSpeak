@@ -62,6 +62,10 @@ La aplicación dispondrá de varios métodos de pago
 - Paypal
 - Paysafecard
 
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
 ## Preguntas frecuentes
 
 1: ¿Las llamadas tendrán un límite de tiempo máximo?
