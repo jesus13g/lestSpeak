@@ -8,6 +8,7 @@
 - [Alejandro Navas García](https://github.com/Pr0ken)
 - [Mario González Alesanco](https://github.com/mariogonn)
 - [Rubén Fernandes Gonçalves](https://github.com/Rubens-10)
+- [Clara Garcia Bartolomé](https://github.com/ClaraGarciaBartolome)
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
