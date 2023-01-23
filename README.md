@@ -9,6 +9,7 @@
 - [Mario González Alesanco](https://github.com/mariogonn)
 - [Clara García Bartolomé](https://github.com/ClaraGarciaBartolome)
 - [Rubén Fernandes Gonçalves](https://github.com/Rubens-10)
+- [Diego Andaluz Arnanz](https://github.com/dandaluz4)
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
