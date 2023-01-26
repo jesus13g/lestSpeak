@@ -1,1 +1,2 @@
-#Aqui voy desarrollando codigo
+#Aqui estaria el codigo desarrollado 
+# Empiezo la fase de integración

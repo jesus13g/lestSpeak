@@ -3,3 +3,5 @@
 ## Simplificar código
 
 ## Corregimos el código
+
+##Pasamos los tests
