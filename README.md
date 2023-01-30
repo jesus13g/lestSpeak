@@ -95,7 +95,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
   
   Hay dos formas de activarlo, una es pulsando una tecla que configures y la otra es teniendo siempre ativado el microfono.
   
-  ### :email
+### :email
 > [Clara](mailto:cgb1004@alu.ubu.es) &nbsp;&middot;&nbsp;
 > [Mario Marcilla](mailto:mmm1058@alu.ubu.es) &nbsp;&middot;&nbsp;
 > [Alejandro](mailto:ang1007@alu.ubu.es) &nbsp;&middot;&nbsp;
