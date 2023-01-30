@@ -3,7 +3,7 @@
 ## Tutor 
  José Manuel Aroca Fernandez
 ## Equipo 
-# <h1 align="center"> Gespro_teoria_2023 </h1>
+# <h1 align="center"> Authors </h1>
 - [Mario Marcilla Moreno](https://github.com/mariomarcilla) 
 - [Alejandro Navas García](https://github.com/Pr0ken)
 - [Mario González Alesanco](https://github.com/mariogonn)
@@ -94,3 +94,12 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 2: ¿Como se puede activar el microfono?
   
   Hay dos formas de activarlo, una es pulsando una tecla que configures y la otra es teniendo siempre ativado el microfono.
+  
+  ### :email
+> [Clara](mailto:cgb1004@alu.ubu.es) &nbsp;&middot;&nbsp;
+> [Mario Marcilla](mailto:mmm1058@alu.ubu.es) &nbsp;&middot;&nbsp;
+> [Alejandro](mailto:ang1007@alu.ubu.es) &nbsp;&middot;&nbsp;
+> [Ruben](mailto:rfg1005@alu.ubu.es) &nbsp;&middot;&nbsp;
+> [Diego](mailto:daa1005@alu.ubu.es) &nbsp;&middot;&nbsp;
+> [Jesus](mailto:) &nbsp;&middot;&nbsp;
+> [Mario Gonzalez](mailto:mga1022@alu.ubu.es)
